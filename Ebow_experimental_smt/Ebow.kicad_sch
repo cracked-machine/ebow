@@ -649,7 +649,7 @@
     (property "Reference" "L2" (id 0) (at 206.375 109.8549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "L_Iron" (id 1) (at 206.375 112.3949 0)
+    (property "Value" "SMNR6028-4R7MT" (id 1) (at 206.375 112.3949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering" (id 2) (at 203.835 111.125 0)
@@ -668,7 +668,7 @@
     (property "Reference" "L1" (id 0) (at 90.17 107.3149 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "L_Iron" (id 1) (at 90.17 109.8549 0)
+    (property "Value" "SMNR6028-4R7MT" (id 1) (at 90.17 109.8549 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering" (id 2) (at 89.535 108.585 0)
@@ -1028,10 +1028,10 @@
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/0fc6b024-f82b-4a82-bc84-87a221f28fe6"
-      (reference "L1") (unit 1) (value "L_Iron") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering")
+      (reference "L1") (unit 1) (value "SMNR6028-4R7MT") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering")
     )
     (path "/0bff6920-0589-4a77-a48c-bd2c2345b946"
-      (reference "L2") (unit 1) (value "L_Iron") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering")
+      (reference "L2") (unit 1) (value "SMNR6028-4R7MT") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering")
     )
     (path "/081ac558-1d49-471c-abf3-ed1a23f06285"
       (reference "R1") (unit 1) (value "10R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
